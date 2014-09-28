@@ -8,3 +8,5 @@ The goal is to add support of every usefull compass mixin. For instance
 	br => border radius
 	bs => box shadow
 	...
+	
+	Comment ça s'intalle ? ou est la liste des raccourcis ????
